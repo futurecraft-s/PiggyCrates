@@ -32,6 +32,16 @@ crates:
         meta: 0
         amount: 10
         chance: 75
+      - name: "Piggy Slayer"
+        id: 261
+        meta: 0
+        amount: 1
+        chance: 40
+        enchantments:
+          Porkified:
+            level: 3
+            Paralyze:
+              level: 1
     amount: 1
     particle: lava
     delay: 0.25
